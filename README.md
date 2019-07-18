@@ -1,2 +1,1 @@
-# win_Cgnsview
-build Cgnsview on windows
+【[issues](https://github.com/nescirem/win_CGNS/issues)】
