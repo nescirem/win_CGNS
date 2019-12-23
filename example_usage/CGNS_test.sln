@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{6989167D-11E4-40FE-8C1A-2192A86A7E90}") = "CGNS_test", "CGNS_test\CGNS_test.vfproj", "{A3752329-11DC-47B9-8D85-89FE55405624}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3752329-11DC-47B9-8D85-89FE55405624}.Debug|x64.ActiveCfg = Debug|x64
+		{A3752329-11DC-47B9-8D85-89FE55405624}.Debug|x64.Build.0 = Debug|x64
+		{A3752329-11DC-47B9-8D85-89FE55405624}.Debug|x86.ActiveCfg = Debug|Win32
+		{A3752329-11DC-47B9-8D85-89FE55405624}.Debug|x86.Build.0 = Debug|Win32
+		{A3752329-11DC-47B9-8D85-89FE55405624}.Release|x64.ActiveCfg = Release|x64
+		{A3752329-11DC-47B9-8D85-89FE55405624}.Release|x64.Build.0 = Release|x64
+		{A3752329-11DC-47B9-8D85-89FE55405624}.Release|x86.ActiveCfg = Release|Win32
+		{A3752329-11DC-47B9-8D85-89FE55405624}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4D6258D-8514-4713-9269-C119E1BD6B5C}
+	EndGlobalSection
+EndGlobal

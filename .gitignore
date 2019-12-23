@@ -30,3 +30,22 @@
 *.exe
 *.out
 *.app
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+binary/
+
+# Others
+My Advisor Results - CGNS_test/
+*.u2d
+.suo
+*.user
